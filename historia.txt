@@ -1,4 +1,4 @@
-hola soy daniel y esta es mi historia
+﻿hola soy daniel y esta es mi historia
 
 vivo en cochabamba y tengo 21 años
 
@@ -7,3 +7,6 @@ tenia un relacion pero no funciono :(
 
 estuvo en el comedor en el 2018 pero lo perdio por reprobar
 muchas materias ese semestre.
+
+le fue bien en el año 2020
+
